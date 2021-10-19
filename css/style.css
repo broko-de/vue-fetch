@@ -44,3 +44,17 @@ main{
 .pt-5{
     padding-top: 5px;
 }
+
+.div-botones{
+    margin: 10px 0px;
+}
+
+.btn {
+    padding: .375rem .75rem;
+    background-color: rgba(255, 68, 0, 0.829);
+    border: 1px solid rgba(255, 68, 0, 0.952);
+    border-radius: .25rem;
+    color: #FFF;
+    text-decoration: none;
+    font-weight: 400;
+}
